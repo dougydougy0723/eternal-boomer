@@ -1,4 +1,1 @@
----
-usage: break others' computer 
-system required: win10 X64
----
+**It's actually a netdisk.**
